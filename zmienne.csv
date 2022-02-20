@@ -1,0 +1,34 @@
+Zmienna@Rodzaj@Opis
+school@binarna@szkoła (‘GP’ – Gabriel Pereira, ‘MS’– Mousinho da Silveira)
+sex@binarna@płeć (‘F’ – kobieta, ‘M’ – meżczyzna)
+age@ilościowa@wiek (od 15 do 22)
+address@binarna@rodzaj zamieszkania (‘U – miasto, ‘R’ – wieś)
+famsize@binarna@wielkość rodziny (‘LE3’ – mniej niż 3, ‘GR3’ – więcej niż 3)
+Pstatus@binarna@status rodziny (‘T’ – rodzice razem, ‘A’ – rodzice oddzielnie)
+Medu@porządkowa@edukacja matki (od 0 do 4)
+Fedu@porządkowa@edukacja ojca (od 0 do 4)
+Mjob@nominalna@rodzaj wykonywanej pracy przez ojca
+Fjob@nominalna@rodzaj wykonywanej pracy przez matkę
+reason@nominalna@powód wybrania danej szkoły
+guardian@nominalna@opiekun (‘M’ – matka, ‘F’ – ojciec, ‘O’ – inny)
+traveltime@porządkowa@czas dojazdu do szkoły (od 1 do 4)
+studytime@porządkowa@czas poświęcony na naukę w tygodniu (od 1 do 4)
+failures@porządkowa@liczba niezdanych przedmiotów w przeszłości (od 1 do 3)
+schoolsup@binarna@dodatkowa edukacja
+famsup@binarna@pomoc rodziny w edukacji
+paid@binarna@korepetycje
+activities@binarna@dodatkowe zajęcia
+nursery@binarna@żłobek
+higher@binarna@zamiar studiowania
+internet@binarna@dostęp do Internetu w domu
+romantic@binarna@bycie w związku
+famrel@porządkowa@jakość relacji rodzinnych (od 1 do 5)
+freetime@porządkowa@ilość wolnego czasu po szkole (od 1 do 5)
+goout@porządkowa@częstość spotykania się ze znajomymi (od 1 do 5)
+dalc@porządkowa@spożycie alkoholu w tygodniu (od 1 do 5)
+walc@porządkowa@spożycie alkoholu w weekend (od 1 do 5)
+health@porządkowa@ocena zdrowia (od 1 do 5)
+absences@ilościowa@ilość nieobecności w szkole (od 0 do 93)
+G1@ilościowa@średnia ocen z pierwszego semestru
+G2@ilościowa@średnia ocen z drugiego semestru
+G3@ilościowa@średnia ocen z trzeciego semestru
